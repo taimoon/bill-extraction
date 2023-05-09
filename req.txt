@@ -4,6 +4,7 @@ numpy
 jupyter
 matplotlib
 pytesseract
+ipython
 
 # disable url below if you don't use cuda gpu
 # --extra-index-url https://download.pytorch.org/whl/cu118

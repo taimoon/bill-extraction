@@ -19,13 +19,12 @@ venv\Scripts\activate
 On Linux,
 ```
 python -m venv venv
-source venv\Scripts\activate
+source venv\bin\activate
 ```
 
 After activate venv, then
 ```
 pip install -r req.txt
-ipython kernel install --name ml_playround --user
 git clone https://github.com/zzzDavid/ICDAR-2019-SROIE.git
 ```
 
